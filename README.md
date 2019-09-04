@@ -1,7 +1,7 @@
 # Custom dmenu build
 
 `dmenu` built with some of my preferred defaults added to the `config.def.h`:  
-  - Nord colorscheme  
+  - Modified [Nord colorscheme](https://www.nordtheme.com)
   - Meslo font
   - Hard coded height of 24px
 
