@@ -8,6 +8,6 @@
 ## Installing
 
 ```
-git clone https://github.com/seesleestak/dmenu.git && cd st
+git clone https://github.com/seesleestak/dmenu.git && cd dmenu
 make && sudo make install
 ```
